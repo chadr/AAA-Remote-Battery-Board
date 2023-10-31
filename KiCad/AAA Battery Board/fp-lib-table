@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "2479")(type "KiCad")(uri "C:/Users/chadr/Downloads/AAA Battery Board/2479")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/chadr/Downloads/AAA Battery Board/FuseHolder/footprints.pretty")(options "")(descr ""))
+)
