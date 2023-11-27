@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
-%TF.CreationDate,2023-11-04T17:46:21-05:00*%
+%TF.CreationDate,2023-11-27T17:09:04-06:00*%
 %TF.ProjectId,AAA Battery Board,41414120-4261-4747-9465-727920426f61,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L2,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.7) date 2023-11-04 17:46:21*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-11-27 17:09:04*
 %MOMM*%
 %LPD*%
 G01*
@@ -24,10 +24,10 @@ G04 APERTURE LIST*
 %ADD13C,2.006600*%
 %TD*%
 %TA.AperFunction,ComponentPad*%
-%ADD14R,2.200000X2.200000*%
+%ADD14R,1.600000X1.600000*%
 %TD*%
 %TA.AperFunction,ComponentPad*%
-%ADD15O,2.200000X2.200000*%
+%ADD15O,1.600000X1.600000*%
 %TD*%
 %TA.AperFunction,ComponentPad*%
 %ADD16C,1.530000*%
@@ -67,10 +67,10 @@ D15*
 X175260000Y-66167000D03*
 %TD*%
 D16*
-%TO.P,3 x AAA (4.5V),N*%
+%TO.P,3 x AAA (~4.5V),N*%
 %TO.N,Net-(J1-Pin_4)*%
 X120904000Y-80645000D03*
-%TO.P,3 x AAA (4.5V),P*%
+%TO.P,3 x AAA (~4.5V),P*%
 %TO.N,Net-(D1-A)*%
 X120904000Y-67945000D03*
 %TD*%
