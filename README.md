@@ -7,6 +7,8 @@
  * 100ma fuse to protect motherboard if a short develops
  * Nylon fuse holder contains fuse blast and glass
  * Uses 1x4 pin headers found on most motherboards for simple cabling
+ * PCB cutouts for Cable tie to secure batteries in rough service situations
+ * Mounting holes for M3 standoffs
 
 **Item**|**Qty**|**MFG Part Num**|**Mouser Part Num**
 :-----:|:-----:|:-----:|:-----:
