@@ -37,4 +37,4 @@ Finish: HASL
 Make sure to choose "custom position" for order number /w JLCPCB or PCBWAY.  
 
 ## Purchasing
-I sell completed kits in my [eBay store](https://www.ebay.com/str/pcrestoration).  
+I sell assembled kits complete with cables, mounting hardware, and batteries in my [eBay store](https://www.ebay.com/str/pcrestoration).  
