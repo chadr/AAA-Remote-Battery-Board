@@ -9,7 +9,18 @@
  * Uses 1x4 pin headers found on most motherboards for simple cabling
  * PCB cutouts for Cable tie to secure batteries in rough service situations
  * Mounting holes for M3 standoffs
+ * No motherboard modifcations required!
 
+
+<picture>
+ <img alt="AAA Battery Board Assembled" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/IMG_1580.jpg">
+</picture>
+
+<picture>
+ <img alt="AAA Battery Board Open Circuit Voltage" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/IMG_1581.jpg">
+</picture>
+
+## Bill of Materials
 **Item**|**Qty**|**MFG Part Num**|**Mouser Part Num**
 :-----:|:-----:|:-----:|:-----:
 Keystone 3xAAA Holder|1|2479|534-2479
@@ -18,3 +29,12 @@ Keystone 3xAAA Holder|1|2479|534-2479
 Fuse|1|BK1/GMC-100-R|504-BK1-GMC-100-R
 Fuse Holder|1|0PTF0078P|576-0PTF0078P
 Fuse Clip|1|00BS0232P|576-00BS0232P
+
+## Board Information
+Dimensions:  
+Layers: 2  
+Finish: HASL  
+Make sure to choose "custom position" for order number /w JLCPCB or PCBWAY.  
+
+## Purchasing
+I sell completed kits in my [eBay store](https://www.ebay.com/str/pcrestoration).  
