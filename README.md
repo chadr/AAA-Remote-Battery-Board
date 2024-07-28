@@ -1,5 +1,5 @@
 # AAA Remote Battery Board
- Remote RTC/CMOS/NVRAM battery for retro computer motherboards. Provides about +4.5V.
+ Remote RTC/CMOS/NVRAM battery for retro computer motherboards. Provides about +4.5V. Which is what most vintage motherboards require. +3V, like from a CR2032, is not appropriate!
 
  **Features:**
  * Higher voltage than CR2032 and higher capacity for longer life
@@ -20,6 +20,11 @@
  <img alt="AAA Battery Board Open Circuit Voltage" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/IMG_1581.jpg">
 </picture>
 
+## Here's a scan from a 386sx AT motherboard. Notice the voltages it requires. It warns against using +3V batteries like a CR2032!
+<picture>
+  <img alt="Manual Scan" src="">
+</picture>
+
 ## Bill of Materials
 **Item**|**Qty**|**MFG Part Num**|**Mouser Part Num**
 :-----:|:-----:|:-----:|:-----:
@@ -38,3 +43,4 @@ Make sure to choose "custom position" for order number /w JLCPCB or PCBWAY.
 
 ## Purchasing
 I sell assembled kits complete with cables, mounting hardware, and batteries in my [eBay store](https://www.ebay.com/str/pcrestoration).  
+And on Tindie (Cheaper on Tindie due to lower fees!) [Link](https://www.tindie.com/products/33599/)
