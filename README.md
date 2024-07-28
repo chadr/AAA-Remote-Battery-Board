@@ -13,16 +13,16 @@
 
 
 <picture>
- <img alt="AAA Battery Board Assembled" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/IMG_1580.jpg">
+ <img alt="AAA Battery Board Assembled" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/assembled.jpg">
 </picture>
 
 <picture>
- <img alt="AAA Battery Board Open Circuit Voltage" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/IMG_1581.jpg">
+ <img alt="AAA Battery Board Open Circuit Voltage" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/volt_reading.jpg">
 </picture>
 
 ## Here's a scan from a 386sx AT motherboard. Notice the voltages it requires. It warns against using +3V batteries like a CR2032!
 <picture>
-  <img alt="Manual Scan" src="">
+  <img alt="Manual Scan" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/manual_scan.jpg">
 </picture>
 
 ## Bill of Materials
