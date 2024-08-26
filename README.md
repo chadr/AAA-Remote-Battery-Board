@@ -44,3 +44,5 @@ Make sure to choose "custom position" for order number /w JLCPCB or PCBWAY.
 ## Purchasing
 I sell assembled kits complete with cables, mounting hardware, and batteries in my [eBay store](https://www.ebay.com/str/pcrestoration).  
 And on Tindie (Cheaper on Tindie due to lower fees!) [Link](https://www.tindie.com/products/33599/)
+
+<a href="https://www.tindie.com/stores/pcrestoration/?ref=offsite_badges&utm_source=sellers_PCRestoration&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
