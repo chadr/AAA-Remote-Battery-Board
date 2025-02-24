@@ -10,12 +10,17 @@
  * Nylon fuse holder contains fuse blast and glass
  * Uses 1x4 pin headers found on most motherboards for simple cabling
  * PCB cutouts for Cable tie to secure batteries in rough service situations
+ * Backer board to raise battery off case when using tape/velcro - NEW
  * Mounting holes for M3 standoffs
  * No motherboard modifcations required!
 
 
 <picture>
- <img alt="AAA Battery Board Assembled" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/assembled.jpg">
+ <img alt="AAA Battery Board Assembled" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/color_options.jpg">
+</picture>
+
+<picture>
+  <img alt="AAA Backer Board" src="https://github.com/chadr/AAA-Remote-Battery-Board/blob/main/img/backer_board.jpg">
 </picture>
 
 <picture>
