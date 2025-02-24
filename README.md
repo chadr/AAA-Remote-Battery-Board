@@ -1,9 +1,11 @@
-# AAA Remote Battery Board
+# AAA Remote Battery Board - Updated!
  Remote RTC/CMOS/NVRAM battery for retro computer motherboards. Provides about +4.5V. Which is what most vintage motherboards require. +3V, like from a CR2032, is not appropriate!
 
  **Features:**
  * Higher voltage than CR2032 and higher capacity for longer life
  * Diode to prevent reverse charging
+ * Diode delete solder jumper - NEW
+ * Universal fuse holder footprint accepts wide and narrow spacing - NEW
  * 100ma fuse to protect motherboard if a short develops
  * Nylon fuse holder contains fuse blast and glass
  * Uses 1x4 pin headers found on most motherboards for simple cabling
