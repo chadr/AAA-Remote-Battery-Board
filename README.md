@@ -12,7 +12,7 @@
  * PCB cutouts for Cable tie to secure batteries in rough service situations
  * Backer board to raise battery off case when using tape/velcro - NEW
  * Mounting holes for M3 standoffs
- * No motherboard modifcations required!
+ * No motherboard modifications required!
 
 
 <picture>
